@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment secrets
+backend/.env
+
+# Database & uploads
+backend/database.db
+backend/storage/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+frontend/components/auth_forms.py.tmp.30376.ae3601c2ae58
+frontend/components/auth_forms.py.tmp.30376.c7ad2eb2c5b7

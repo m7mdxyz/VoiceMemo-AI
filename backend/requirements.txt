@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+pydantic
+pydantic-settings
+passlib[bcrypt]
+bcrypt==4.0.1
+pyjwt
+python-multipart
+openai-whisper
+torch
+aiofiles
